@@ -4,7 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+<<<<<<< HEAD
 namespace FlowMeterFactory
+=======
+namespace FlowMeterLoger
+>>>>>>> 45b780ac5c9dcde32518ab1f8021e225f5b4676b
 {
     static class Program
     {
