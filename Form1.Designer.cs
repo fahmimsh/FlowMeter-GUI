@@ -1,9 +1,5 @@
 ﻿
-<<<<<<< HEAD
 namespace FlowMeterFactory
-=======
-namespace FlowMeterLoger
->>>>>>> 45b780ac5c9dcde32518ab1f8021e225f5b4676b
 {
     partial class Form1
     {
@@ -33,7 +29,6 @@ namespace FlowMeterLoger
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.SettingToolStripMenu = new System.Windows.Forms.ToolStripMenuItem();
@@ -379,15 +374,7 @@ namespace FlowMeterLoger
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
             this.helpToolStripMenuItem.Size = new System.Drawing.Size(75, 24);
             this.helpToolStripMenuItem.Text = "Help";
-            // 
-=======
-            this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            // =======
             this.asComm1 = new AutomatedSolutions.Win.Comm.ASComm();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
@@ -494,30 +481,21 @@ namespace FlowMeterLoger
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_setliter2)).BeginInit();
             this.SuspendLayout();
             // 
->>>>>>> 45b780ac5c9dcde32518ab1f8021e225f5b4676b
             // statusStrip1
             // 
             this.statusStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel1});
-<<<<<<< HEAD
             this.statusStrip1.Location = new System.Drawing.Point(0, 917);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 19, 0);
             this.statusStrip1.Size = new System.Drawing.Size(1924, 26);
             this.statusStrip1.TabIndex = 5;
-=======
-            this.statusStrip1.Location = new System.Drawing.Point(0, 743);
-            this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(1439, 26);
-            this.statusStrip1.TabIndex = 0;
->>>>>>> 45b780ac5c9dcde32518ab1f8021e225f5b4676b
             this.statusStrip1.Text = "statusStrip1";
             // 
             // toolStripStatusLabel1
             // 
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-<<<<<<< HEAD
             this.toolStripStatusLabel1.Size = new System.Drawing.Size(49, 20);
             this.toolStripStatusLabel1.Text = "Status";
             // 
